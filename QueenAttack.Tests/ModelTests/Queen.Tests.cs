@@ -49,7 +49,6 @@ namespace QueenAttack.Tests
             // Assert
             Assert.AreEqual(expectedVal, myQueen.QueenX);
         }
-        //  =bn
 
         // Fourth Test: Getting Y coordinate for Queen
         [TestMethod]
